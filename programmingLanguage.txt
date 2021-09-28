@@ -1,0 +1,9 @@
+static typing vs. dynamic typing
+
+static typing:
+string str = "abc";
+str = 1; // compilation error
+
+dynamic typing:
+var a = "abc";
+a = 1; 
