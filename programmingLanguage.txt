@@ -7,3 +7,10 @@ str = 1; // compilation error
 dynamic typing:
 var a = "abc";
 a = 1; 
+
+#################################
+
+lexical scoping vs. dynamic scoping
+
+lexical scoping: compile-time decision
+dynamic scoping: execution-time decision
